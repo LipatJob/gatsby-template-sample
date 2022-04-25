@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">
   Gatsby minimal starter
-</h1>asdfasdfasdfasdfasdfasdfasdf
+</h1>asdfasdfasdfasdfasdfasdfasdfasdfasdf
 
 ## 🚀 Quick start
 
