@@ -1,9 +1,16 @@
 import React from "react";
+import Footer from "../components/Footer";
+import HeroSection from "../components/HeroSection";
+import Navbar from "../components/Navbar";
+import ProjectSection from "../components/ProjectSection";
 
 export default function index() {
   return (
-    <div>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+    <div className="flex flex-col">
+      <Navbar />
+      <HeroSection />
+      <ProjectSection />
+      <Footer />
     </div>
   );
 }
